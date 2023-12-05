@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
 
+## Rodar o projeto
+
+ - Baixe o `Node: 18.19.0` [x64](https://nodejs.org/download/release/v18.19.0/node-v18.19.0-x64.msi) / [x86](https://nodejs.org/download/release/v18.19.0/node-v18.19.0-x86.msi);
+ - Atualize o npm com `npm install -g npm@10.2.4`;
+ - Baixe o angular com `npm install -g @angular/cli@16.2.10`;
+ - Depois de baixar o projeto, dentro da passa do projeto rode `npm install` e depois `npm start`.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
