@@ -1,6 +1,6 @@
 # JovatzFront
 
-[![](https://img.shields.io/badge/Angular_16-0F0F11?style=for-the-badge&logo=angular "Angular 16")](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-8)
+[![](https://img.shields.io/badge/Angular_16-0F0F11?style=for-the-badge&logo=angular "Angular 16")](https://v16.angular.io/docs)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
 
